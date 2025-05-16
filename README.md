@@ -1,12 +1,9 @@
 # WOA7019
 
-markerless - yuncheng
+NEXT STEP: 
 
-task management - zikri
-
-color - lingfen
-
-firebase - xavier
+- connect and save note data from webcamScript (Xavier)
+- add buttons with OnClick functions (Zikri)
 
 ## markerless - yuncheng
 
@@ -24,3 +21,9 @@ prerequisites: install unity remote on iphone, itunes on window
 6. play unity simulation (window)
 
 result: webcamPlane should rotate with iphone, adding NoteCube in different angle will create notes with different rotation value as TextMestPro.text
+
+## firebase - xavier
+
+## task management - zikri
+
+## color - lingfen
