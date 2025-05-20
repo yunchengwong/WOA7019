@@ -7,7 +7,12 @@ NEXT STEP:
 
 ## markerless - yuncheng
 
-TODO: test location service
+TODO: 
+
+- test location service
+- fail on testing gyroscope on unity 2018
+    - error on resolving iphone 11 on unity 2018
+    - error on upgrading unity 2018 to unity 6
 
 #### test gryoscope with unity remote on iphone
 
